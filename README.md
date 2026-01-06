@@ -1,5 +1,5 @@
 # Hey There 👋🏻
-# Myself Biswajit 👨🏻‍💻 & this details are about me : 
+# Myself Biswajit 👨🏻‍💻 & these details are about me: 
 🔭 I’m currently a student<br>👯 I’m looking to collaborate on webpage/backend/fullstack developing<br>🤝 I’m looking for opportunity to find internship's, grow & showcase my skills<br>🌱 I’m currently learning computer science<br>💬 Ask me about tech & things related to it<br>⚡ Fun fact  - just a beginner, trying to learn & change with time
 
 
