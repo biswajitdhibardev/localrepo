@@ -1,6 +1,6 @@
 # Hey There 👋🏻
 # Myself Biswajit 👨🏻‍💻 
-🔭 I’m currently a student<br>👯 I’m looking to collaborate on web-developing<br>🤝 I’m looking for help to find internship's & growing my skills<br>🌱 I’m currently learning computer science<br>💬 Ask me about tech & things related to it<br>⚡ Fun fact just a beginner - trying to learn & change
+🔭 I’m currently a student<br>👯 I’m looking to collaborate on webpage/backend/fullstack<br>🤝 I’m looking for opportunity to find internship's & growing my skills<br>🌱 I’m currently learning computer science<br>💬 Ask me about tech & things related to it<br>⚡ Fun fact  - just a beginner, trying to learn & change with time
 
 
 ## 🌐 Socials:
